@@ -1,0 +1,13 @@
+/* Global Footer */
+footer.globalFooter{
+    background-color: darkslategray;
+    color:lightgray;
+    border-top:8px solid #4aaaa5;
+    text-align:center;
+    position:fixed;
+    left:0;
+    bottom:0;
+    width:100%;
+    padding:5px 0px;
+
+}
